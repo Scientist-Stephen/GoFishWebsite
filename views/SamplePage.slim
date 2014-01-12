@@ -1,0 +1,80 @@
+doctype html
+html
+
+	head
+		<title>GoFish</title>
+		<link rel="stylesheet" href="stylesheets/style1.css">
+	
+	body
+
+		header class="header"
+			h1 Go Fish!
+			h2 With: Demetori, Lindsy Sterling, and Owl City
+			nav.links 
+				a href="http://boardgames.about.com/od/cardgames/a/go_fish.htm" About
+				a href="http://www.pagat.com/quartet/gofish.html#fish" Rules
+
+		section class="identifier"
+			h2 It is Owl City's Turn
+			h2 Owl City
+
+		section class="top"
+			section class="card_list"
+				P These are your cards:
+				ul
+					li: img src="cards/s6.png" alt="Six of Spades"
+					li: img src="cards/sj.png" alt="Jack of Spades"
+					li: img src="cards/s2.png" alt="Two of Spades"
+					li: img src="cards/s10.png" alt="Ten of Spades"
+
+			section class="previous_round_results"
+				div class="previous_round"
+					h3 Previous Round Results
+					ul
+						section class="previous_round_list"
+							li Owl City asked Lindsey Sterling for Aces.  He received 2 Aces from Lindsey Sterling.  <br>  Owl City has completed a book of Aces.
+							li class="player_cards" Owl City has 4 cards
+							li class="player_cards" Lindsey Sterling has 7 cards
+							li class="player_cards" Demetori has 8 cards
+
+		/ section class="left_side"	
+		
+		section class="bot"
+			section class="books_list"
+				h3 These are your books: 
+				ul
+					li: img src="cards/sa.png" alt="Ace of Spades"
+					li: img src="cards/sq.png" alt="Queen of Spades"
+					li: img src="cards/s5.png" alt="Five of Spades"
+					li: img src="cards/sK.png" alt="King of Spades"	
+		
+			section class="turns_section"
+				div class="turn"
+					h3 Ask for cards:
+					form action=""
+						lable Ask a player!
+
+						select name="players"
+							option name="Demetori" Demetori
+							option name="Lindsey Sterling" Lindsey Sterling
+							option name="Owl City" Owl City
+							
+				div class="which_card"
+					form action=""
+						select name="cards"
+							option name="2" 2 of Spades
+							option name="3" 3 of Spades
+							option name="4" 4 of Spades
+							option name="5" 5 of Spades
+							option name="6" 6 of Spades
+							option name="7" 7 of Spades
+							option name="8" 8 of Spades
+							option name="9" 9 of Spades
+							option name="10" 10 of Spades
+							option name="J" J of Spades
+							option name="Q" Q of Spades
+							option name="K" K of Spades
+							option name="A" A of Spades
+		
+				submit class="submit"
+					input type="submit" value="Submit"

@@ -1,0 +1,131 @@
+body  /*This will affect the styling of the entire body*/
+{	
+  background:  #33CCFF;
+}
+
+.left_side
+{
+	float:left;
+	clear:left;  
+}
+
+.right_side
+{
+	float:right;
+}
+
+.top
+{
+	width: 50%;
+	margin:0 auto;
+}
+
+.bot
+{
+	width: 50%;
+	margin:0 auto 
+}
+
+
+.header
+{
+	
+	background:#F2FDFF;
+
+	margin-left:auto;
+	margin-right:auto;
+
+	border:2px solid #a1a1a1;
+	// padding:5px 20px; 
+	background:#DBDBDB;
+	width:500px;
+	border-radius:auto;
+	/*opacity:0.8*/ 
+	/*Opacity only affects background: http://stackoverflow.com/questions/17487437/css-opacity-background-not-affect-image;*/
+}
+
+.identifier
+{
+	background:#F2FDFF;
+
+	margin-left:auto;
+	margin-right:auto;
+	
+	border:2px solid #a1a1a1;
+	// padding:10px 20px; 
+	background:#DBDBDB;
+	width:500px;
+	border-radius:25px;
+}
+
+.card_list
+{
+	background:#F2FDFF;
+	float:left;
+
+	border:2px solid #a1a1a1;
+	padding:10px 20px; 
+	background:#DBDBDB;
+	width:40%;
+	border-radius:25px;
+}
+
+.card_list li
+{
+	list-style: none;
+	display:inline-block;
+	text-indent: -20px;
+}
+
+.books_list
+{
+	background:#F2FDFF;
+
+	border:2px solid #a1a1a1;
+	padding:10px 20px; 
+	background:#DBDBDB;
+	width:40%;
+	border-radius:25px;
+	float:left;
+}
+
+.books_list li
+{
+	list-style: none;
+	display:inline-block;
+	text-indent: 5px;
+}
+
+.previous_round_results
+{
+	background:#F2FDFF;
+
+	border:2px solid #a1a1a1;
+	padding:10px 20px; 
+	background:#DBDBDB;
+	width:40%;
+	border-radius:25px;
+	float:left;
+
+}
+
+.turns_section
+{
+	background:#F2FDFF;
+
+	border:2px solid #a1a1a1;
+	padding:10px 20px; 
+	background:#DBDBDB;
+	width:40%;
+	border-radius:25px;
+	float:left;
+}
+
+.books
+{
+
+}
+/*put EVERYTHING in body*/
+/*Previous Round Div and PLAYER CARDS Div separate*/
+/*Previous Round Results Separate from Player INfo(how many cards each player has)*/
+/*a:hover*/

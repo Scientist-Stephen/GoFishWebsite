@@ -1,0 +1,25 @@
+# Logfile created on 2014-01-08 17:09:33 -0500 by logger.rb/36483
+I, [2014-01-08T17:09:33.255492 #902]  INFO -- : 0:  rack (1.5.2) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-08T17:09:33.256201 #902]  INFO -- : 0:  sass (3.2.13) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/sass-3.2.13.gemspec
+I, [2014-01-08T17:09:34.615187 #902]  INFO -- : 0:  sinatra (1.0) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/sinatra-1.0.gemspec
+I, [2014-01-08T17:09:34.615773 #902]  INFO -- : 0:  temple (0.6.7) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/temple-0.6.7.gemspec
+I, [2014-01-08T17:09:34.616111 #902]  INFO -- : 0:  tilt (2.0.0) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/tilt-2.0.0.gemspec
+I, [2014-01-08T17:09:34.616444 #902]  INFO -- : 0:  slim (2.0.2) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/slim-2.0.2.gemspec
+I, [2014-01-08T17:09:34.616741 #902]  INFO -- : 0:  bundler (1.5.1) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/bundler-1.5.1.gemspec
+I, [2014-01-09T11:08:56.441574 #1420]  INFO -- : 0:  rack (1.5.2) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-09T11:08:56.454540 #1420]  INFO -- : 0:  sass (3.2.13) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/sass-3.2.13.gemspec
+I, [2014-01-09T11:08:56.463343 #1420]  INFO -- : 0:  sinatra (1.0) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/sinatra-1.0.gemspec
+I, [2014-01-09T11:08:56.463757 #1420]  INFO -- : 0:  temple (0.6.7) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/temple-0.6.7.gemspec
+I, [2014-01-09T11:08:56.464193 #1420]  INFO -- : 0:  tilt (2.0.0) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/tilt-2.0.0.gemspec
+I, [2014-01-09T11:08:56.464562 #1420]  INFO -- : 0:  slim (2.0.2) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/slim-2.0.2.gemspec
+I, [2014-01-09T11:08:56.464873 #1420]  INFO -- : 0:  bundler (1.5.1) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/bundler-1.5.1.gemspec
+I, [2014-01-09T13:57:57.363241 #2497]  INFO -- : 0:  chunky_png (1.2.9) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/chunky_png-1.2.9.gemspec
+I, [2014-01-09T13:57:57.400553 #2497]  INFO -- : 0:  fssm (0.2.10) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/fssm-0.2.10.gemspec
+I, [2014-01-09T13:57:57.401071 #2497]  INFO -- : 0:  sass (3.2.13) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/sass-3.2.13.gemspec
+I, [2014-01-09T13:57:57.401597 #2497]  INFO -- : 0:  compass (0.12.2) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/compass-0.12.2.gemspec
+I, [2014-01-09T13:57:57.402109 #2497]  INFO -- : 0:  rack (1.5.2) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-09T13:57:57.402643 #2497]  INFO -- : 0:  sinatra (1.0) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/sinatra-1.0.gemspec
+I, [2014-01-09T13:57:57.403175 #2497]  INFO -- : 0:  temple (0.6.7) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/temple-0.6.7.gemspec
+I, [2014-01-09T13:57:57.403639 #2497]  INFO -- : 0:  tilt (2.0.0) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/tilt-2.0.0.gemspec
+I, [2014-01-09T13:57:57.404083 #2497]  INFO -- : 0:  slim (2.0.2) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/slim-2.0.2.gemspec
+I, [2014-01-09T13:57:57.404449 #2497]  INFO -- : 0:  bundler (1.5.1) from /Users/macowner/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/specifications/bundler-1.5.1.gemspec
